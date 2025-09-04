@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "F4221d46 8fcb 4750 93f5 A7bea49efbd0",
+    "subtitle": "Built with Zara",
+    "description": "F4221d46 8fcb 4750 93f5 A7bea49efbd0 is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://f4221d468fcb475093f5a7bea49efbd0-indn-6emww2xit-vistara.vercel.app",
+    "splashImageUrl": "https://f4221d468fcb475093f5a7bea49efbd0-indn-6emww2xit-vistara.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://f4221d468fcb475093f5a7bea49efbd0-indn-6emww2xit-vistara.vercel.app/image.png",
+    "tagline": "F4221d46 8fcb 4750 93f5 A7bea49efbd0",
+    "screenshotUrls": [
+      "https://f4221d468fcb475093f5a7bea49efbd0-indn-6emww2xit-vistara.vercel.app/screenshot.png",
+      "https://f4221d468fcb475093f5a7bea49efbd0-indn-6emww2xit-vistara.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://f4221d468fcb475093f5a7bea49efbd0-indn-6emww2xit-vistara.vercel.app/api/webhook"
+  }
+}
